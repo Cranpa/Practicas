@@ -21,6 +21,10 @@ switch (valor) {
         break;
 
     default:
-        console.log('Siempre entra');
+        console.log('Entra si no entra en las otras');
         break;
 }
+while (condition) {
+    // Se ejecuta hasta que se cumpla la condition   
+}
+
